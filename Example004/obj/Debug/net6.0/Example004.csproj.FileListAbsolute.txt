@@ -1,0 +1,15 @@
+/Users/saidsadullaev/Desktop/Examples/Example004/bin/Debug/net6.0/Example004
+/Users/saidsadullaev/Desktop/Examples/Example004/bin/Debug/net6.0/Example004.deps.json
+/Users/saidsadullaev/Desktop/Examples/Example004/bin/Debug/net6.0/Example004.runtimeconfig.json
+/Users/saidsadullaev/Desktop/Examples/Example004/bin/Debug/net6.0/Example004.dll
+/Users/saidsadullaev/Desktop/Examples/Example004/bin/Debug/net6.0/Example004.pdb
+/Users/saidsadullaev/Desktop/Examples/Example004/obj/Debug/net6.0/Example004.csproj.AssemblyReference.cache
+/Users/saidsadullaev/Desktop/Examples/Example004/obj/Debug/net6.0/Example004.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saidsadullaev/Desktop/Examples/Example004/obj/Debug/net6.0/Example004.AssemblyInfoInputs.cache
+/Users/saidsadullaev/Desktop/Examples/Example004/obj/Debug/net6.0/Example004.AssemblyInfo.cs
+/Users/saidsadullaev/Desktop/Examples/Example004/obj/Debug/net6.0/Example004.csproj.CoreCompileInputs.cache
+/Users/saidsadullaev/Desktop/Examples/Example004/obj/Debug/net6.0/Example004.dll
+/Users/saidsadullaev/Desktop/Examples/Example004/obj/Debug/net6.0/refint/Example004.dll
+/Users/saidsadullaev/Desktop/Examples/Example004/obj/Debug/net6.0/Example004.pdb
+/Users/saidsadullaev/Desktop/Examples/Example004/obj/Debug/net6.0/Example004.genruntimeconfig.cache
+/Users/saidsadullaev/Desktop/Examples/Example004/obj/Debug/net6.0/ref/Example004.dll
